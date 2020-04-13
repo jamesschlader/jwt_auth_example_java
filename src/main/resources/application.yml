@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/jwt_auth_example
+    username: root
+    password: Alex@1386
+com:
+
+server:
+  port: 8088
+
+
